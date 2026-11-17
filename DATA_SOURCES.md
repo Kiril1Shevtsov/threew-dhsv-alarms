@@ -1,5 +1,7 @@
 # Источники и права
 
+[English version](DATA_SOURCES.en.md)
+
 Источник: **Petróleo Brasileiro S.A. (Petrobras), The 3W Project**.
 
 - Репозиторий: https://github.com/petrobras/3W

@@ -1,5 +1,7 @@
 # Протокол эксперимента
 
+[English version](methodology.en.md)
+
 ## Данные
 
 Версия 3W 2.0.0, commit `914af287b1cf3e5207dce0da1e9dc08361c9adeb`.
