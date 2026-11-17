@@ -1,0 +1,308 @@
+{
+  "source": "https://github.com/petrobras/3W",
+  "commit": "914af287b1cf3e5207dce0da1e9dc08361c9adeb",
+  "dataset_version": "2.0.0",
+  "license": "CC-BY-4.0",
+  "files": [
+    {
+      "path": "dataset/2/WELL-00002_20131104004101.parquet",
+      "sha": "f748732cb0f8521872187dc3a8172d0678d67782",
+      "size": 169673
+    },
+    {
+      "path": "dataset/2/WELL-00003_20141122190000.parquet",
+      "sha": "b2641a1e7173b786860d3b5c745c8c5e9844cb5b",
+      "size": 378454
+    },
+    {
+      "path": "dataset/2/WELL-00003_20170728130240.parquet",
+      "sha": "574b13fac759cc1de531759311bd064182fa5272",
+      "size": 305309
+    },
+    {
+      "path": "dataset/2/WELL-00003_20180206171508.parquet",
+      "sha": "f203d2dd84bac1395a9d203938cdbdf62532f40e",
+      "size": 253445
+    },
+    {
+      "path": "dataset/2/WELL-00009_20170313150804.parquet",
+      "sha": "c984ee7e16f4dfaa9de6233c71d0209db97cf80d",
+      "size": 238069
+    },
+    {
+      "path": "dataset/2/WELL-00010_20171218180131.parquet",
+      "sha": "774387c9dfa726180e55f04126d9dfe8340319e2",
+      "size": 208995
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140515083000.parquet",
+      "sha": "953b22e0b95bd50a43e8582ab4edf000a742038b",
+      "size": 436334
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140530083203.parquet",
+      "sha": "a220d4f8fb655b1a5030817206d53fe09f62d269",
+      "size": 115343
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140606213810.parquet",
+      "sha": "722a0d3554bebe0d5b7cef09528be957160be4d1",
+      "size": 342715
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140720110102.parquet",
+      "sha": "27ba9c67bb527a52b26726e0b6e8690359e25ac7",
+      "size": 206087
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140726165720.parquet",
+      "sha": "567ee86b8bdd08b603e20bd874fc6fedf44bd32c",
+      "size": 115772
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140823230118.parquet",
+      "sha": "28c038db17b5fb4c4b1ea7497789d20c61d803c9",
+      "size": 402209
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140916050300.parquet",
+      "sha": "9699f1b3ab15a5ea0bcb4482a8813ebefbb12438",
+      "size": 149344
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140921183228.parquet",
+      "sha": "1a8978ae0f31da16ebd14a1de1c58e66247f7880",
+      "size": 138773
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140928090056.parquet",
+      "sha": "1dbfe93a6a12bbcea0829a137b98bcc89b513872",
+      "size": 149323
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140929153332.parquet",
+      "sha": "1c62bb725dfb4a23569e3be363aa863f67c256d4",
+      "size": 136098
+    },
+    {
+      "path": "dataset/2/WELL-00011_20140929210121.parquet",
+      "sha": "88a4880025832b166fe85311322c2844978f51c1",
+      "size": 164659
+    },
+    {
+      "path": "dataset/2/WELL-00011_20141005160056.parquet",
+      "sha": "c5f10b67db7ab0ea620dd7eaf72cee6e87c6d1e9",
+      "size": 163770
+    },
+    {
+      "path": "dataset/2/WELL-00011_20141006150121.parquet",
+      "sha": "a32531f85fa29e8336f4c2382e8fdc38156414e2",
+      "size": 135534
+    },
+    {
+      "path": "dataset/2/WELL-00012_20170320011000.parquet",
+      "sha": "ae3e8886ccea91448e5f01a6a5cf175206ef0046",
+      "size": 208829
+    },
+    {
+      "path": "dataset/2/WELL-00012_20170320123144.parquet",
+      "sha": "28103c9dc17323148d04e2b251645b52246a7a3f",
+      "size": 232735
+    },
+    {
+      "path": "dataset/2/WELL-00013_20170329010229.parquet",
+      "sha": "552ae07fb757af6d2e8cbd0b0019d3eba17f9bca",
+      "size": 199109
+    },
+    {
+      "path": "dataset/0/WELL-00001_20170522100000.parquet",
+      "sha": "004bf2dbea5f3a895fd9ea10dd7d2c6ac14f819d",
+      "size": 383621
+    },
+    {
+      "path": "dataset/0/WELL-00001_20170526190000.parquet",
+      "sha": "01398bbd1c9a1ad839e33b4049ff7a6a0cf6ecd0",
+      "size": 439295
+    },
+    {
+      "path": "dataset/0/WELL-00001_20170824050000.parquet",
+      "sha": "075fdc246a487c182c95fce1ae8ee0e3277fdfc4",
+      "size": 412553
+    },
+    {
+      "path": "dataset/0/WELL-00002_20170625110032.parquet",
+      "sha": "01aa7e5f668ead508532e4d73ab7ce5a4b8de747",
+      "size": 234003
+    },
+    {
+      "path": "dataset/0/WELL-00002_20170812130000.parquet",
+      "sha": "0245c4a3d18922baca89040315f3d61780a06215",
+      "size": 217054
+    },
+    {
+      "path": "dataset/0/WELL-00002_20170806070000.parquet",
+      "sha": "029e9c692b996559d4313701e247cc1a92438f29",
+      "size": 250178
+    },
+    {
+      "path": "dataset/0/WELL-00003_20170821130207.parquet",
+      "sha": "057ee3c8f722c542ec9cac5c6595276a81f99147",
+      "size": 231511
+    },
+    {
+      "path": "dataset/0/WELL-00003_20170915060000.parquet",
+      "sha": "05a605df445fd72eacff0023186a7f31fae942ff",
+      "size": 249811
+    },
+    {
+      "path": "dataset/0/WELL-00003_20170514000000.parquet",
+      "sha": "12d43262874ce8e52f299b3e2dd72c80861a8293",
+      "size": 261516
+    },
+    {
+      "path": "dataset/0/WELL-00004_20140807010107.parquet",
+      "sha": "15f6c3071df2c1b681123f22c90e3cf253e53d4b",
+      "size": 191761
+    },
+    {
+      "path": "dataset/0/WELL-00004_20140807190042.parquet",
+      "sha": "29813a942741dcdbf6e665eea311bb4b52642794",
+      "size": 202456
+    },
+    {
+      "path": "dataset/0/WELL-00004_20140807170050.parquet",
+      "sha": "528825a27bb6d8dd0c26db8d6f6c6e5d3336e643",
+      "size": 206788
+    },
+    {
+      "path": "dataset/0/WELL-00005_20170816070000.parquet",
+      "sha": "01f97dd1c4b42a8b640a04324c69d73db6a5bafc",
+      "size": 231439
+    },
+    {
+      "path": "dataset/0/WELL-00005_20170402170043.parquet",
+      "sha": "072c3e4a510ea81e0c7b85f54b6dfb1d8425f9e7",
+      "size": 311547
+    },
+    {
+      "path": "dataset/0/WELL-00005_20170331050014.parquet",
+      "sha": "081997371e1385e7a2fe5ee7ae9c2a8cdbd9b824",
+      "size": 305390
+    },
+    {
+      "path": "dataset/0/WELL-00006_20170224160000.parquet",
+      "sha": "068936a05ad7faa43ea06d38d6f0af16f49ea6b0",
+      "size": 284288
+    },
+    {
+      "path": "dataset/0/WELL-00006_20170825200053.parquet",
+      "sha": "07d4a794a09292bf7be44f5b5f019a3b1021d521",
+      "size": 297088
+    },
+    {
+      "path": "dataset/0/WELL-00006_20170823130000.parquet",
+      "sha": "088adef60c560c292bda47caff6c7a1e29bf461a",
+      "size": 272590
+    },
+    {
+      "path": "dataset/0/WELL-00007_20170801170000.parquet",
+      "sha": "6ab0b7816adf53976a09f3250894d82716eb02d5",
+      "size": 352956
+    },
+    {
+      "path": "dataset/0/WELL-00007_20170801190000.parquet",
+      "sha": "fc177bf90ea0e725f31855efddb5e4f60f428520",
+      "size": 375592
+    },
+    {
+      "path": "dataset/0/WELL-00008_20170612130047.parquet",
+      "sha": "00aced7b4c3c8fb313cb927581e20f6c644fab2d",
+      "size": 141476
+    },
+    {
+      "path": "dataset/0/WELL-00008_20170611170123.parquet",
+      "sha": "0489b4479ff4df6af07ce9e2f7ecd34d6f2fc37d",
+      "size": 135554
+    },
+    {
+      "path": "dataset/0/WELL-00008_20170818050210.parquet",
+      "sha": "13828cf5aa34a8cb98a7ab48a4e62344229465c2",
+      "size": 138538
+    },
+    {
+      "path": "dataset/5/WELL-00015_20170620122925.parquet",
+      "sha": "03ce163a8e4401060d516719b2458c5f04c83d89",
+      "size": 961750
+    },
+    {
+      "path": "dataset/5/WELL-00016_20180405005319.parquet",
+      "sha": "406389b1d6fa93417e61324d10142d729e127308",
+      "size": 360096
+    },
+    {
+      "path": "dataset/5/WELL-00020_20140317130658.parquet",
+      "sha": "058af91ac2f05fae8292eb85120c974743e16121",
+      "size": 902220
+    },
+    {
+      "path": "dataset/7/WELL-00021_20180611011218.parquet",
+      "sha": "54f6afe194b288d09bb8de8ca146b07fea970d6d",
+      "size": 722735
+    },
+    {
+      "path": "dataset/7/WELL-00024_20160920153331.parquet",
+      "sha": "900122cb1e9238835ff291bddaed945f9afff2c0",
+      "size": 510370
+    },
+    {
+      "path": "dataset/9/WELL-00014_20170214190000.parquet",
+      "sha": "5125cb5e5a5607243f92f08d345b370e60850edd",
+      "size": 707889
+    },
+    {
+      "path": "dataset/9/WELL-00033_20190926065206.parquet",
+      "sha": "3807b1325906bb7bd1360ec713961972a5a2f3a7",
+      "size": 349427
+    },
+    {
+      "path": "dataset/9/WELL-00034_20190825150318.parquet",
+      "sha": "089da1514c5c2b19afc3bf74be55eeb4d46a02a7",
+      "size": 323762
+    },
+    {
+      "path": "dataset/9/WELL-00035_20190923023106.parquet",
+      "sha": "37f41f6b961e9ff02270a8750a2be136c01c2ab9",
+      "size": 208820
+    },
+    {
+      "path": "dataset/9/WELL-00036_20190925100042.parquet",
+      "sha": "0f62b3e2b1af2bac682aa47682d15b3843f9fb25",
+      "size": 206223
+    },
+    {
+      "path": "dataset/9/WELL-00037_20181011071238.parquet",
+      "sha": "2db5b3e72c80f5becd2bf5324eb5813038d1b351",
+      "size": 888559
+    },
+    {
+      "path": "dataset/9/WELL-00039_20190918150111.parquet",
+      "sha": "bf3f0872fc3273eeeb0163dfb9257515acdfab80",
+      "size": 594332
+    },
+    {
+      "path": "dataset/9/WELL-00040_20181013160242.parquet",
+      "sha": "39414154fc884a9b195696e45be6435a9440b2ad",
+      "size": 837955
+    },
+    {
+      "path": "dataset/9/WELL-00041_20181013160201.parquet",
+      "sha": "a549256f61ccb5e8de3682496036615f4e49cc89",
+      "size": 888344
+    },
+    {
+      "path": "dataset/9/WELL-00042_20141218004109.parquet",
+      "sha": "4a3c9b935ee267c8c0d9e726d4c9991cce9b50cf",
+      "size": 489527
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "protocol": "Nested grouped three-fold threshold selection inside outer leave-one-well-out, with all 45 development files; existing outer scores reused",
+  "runtime_seconds": 343.56025075912476,
+  "summary": [
+    {
+      "model": "raw_RF",
+      "policy": "fixed_05",
+      "events": 22,
+      "detected_300": 20,
+      "clean_300": 15,
+      "false_episodes": 15,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 2.9587014588041916,
+      "alarm_occupancy": 0.05345524279158962
+    },
+    {
+      "model": "raw_RF",
+      "policy": "window_q99",
+      "events": 22,
+      "detected_300": 19,
+      "clean_300": 18,
+      "false_episodes": 6,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 1.1834805835216766,
+      "alarm_occupancy": 0.03431271830696528
+    },
+    {
+      "model": "raw_RF",
+      "policy": "events_1_day",
+      "events": 22,
+      "detected_300": 18,
+      "clean_300": 18,
+      "false_episodes": 2,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 0.39449352784055886,
+      "alarm_occupancy": 0.03266899527429628
+    },
+    {
+      "model": "raw_RF",
+      "policy": "events_2_day",
+      "events": 22,
+      "detected_300": 18,
+      "clean_300": 18,
+      "false_episodes": 2,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 0.39449352784055886,
+      "alarm_occupancy": 0.03266899527429628
+    },
+    {
+      "model": "raw_RF",
+      "policy": "events_6_day",
+      "events": 22,
+      "detected_300": 18,
+      "clean_300": 18,
+      "false_episodes": 2,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 0.39449352784055886,
+      "alarm_occupancy": 0.03266899527429628
+    },
+    {
+      "model": "calibrated_RF",
+      "policy": "fixed_05",
+      "events": 22,
+      "detected_300": 22,
+      "clean_300": 17,
+      "false_episodes": 68,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 13.412779946579002,
+      "alarm_occupancy": 0.05537291966303678
+    },
+    {
+      "model": "calibrated_RF",
+      "policy": "window_q99",
+      "events": 22,
+      "detected_300": 22,
+      "clean_300": 18,
+      "false_episodes": 42,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 8.284364084651736,
+      "alarm_occupancy": 0.029518526128347374
+    },
+    {
+      "model": "calibrated_RF",
+      "policy": "events_1_day",
+      "events": 22,
+      "detected_300": 22,
+      "clean_300": 18,
+      "false_episodes": 8,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 1.5779741113622354,
+      "alarm_occupancy": 0.004383261420450654
+    },
+    {
+      "model": "calibrated_RF",
+      "policy": "events_2_day",
+      "events": 22,
+      "detected_300": 22,
+      "clean_300": 18,
+      "false_episodes": 8,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 1.5779741113622354,
+      "alarm_occupancy": 0.004383261420450654
+    },
+    {
+      "model": "calibrated_RF",
+      "policy": "events_6_day",
+      "events": 22,
+      "detected_300": 22,
+      "clean_300": 18,
+      "false_episodes": 9,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 1.775220875282515,
+      "alarm_occupancy": 0.004588726799534279
+    },
+    {
+      "model": "calibrated_HGB",
+      "policy": "fixed_05",
+      "events": 22,
+      "detected_300": 20,
+      "clean_300": 16,
+      "false_episodes": 55,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 10.84857201561537,
+      "alarm_occupancy": 0.012841586192726526
+    },
+    {
+      "model": "calibrated_HGB",
+      "policy": "window_q99",
+      "events": 22,
+      "detected_300": 20,
+      "clean_300": 16,
+      "false_episodes": 122,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 24.064105198274092,
+      "alarm_occupancy": 0.025066776248202177
+    },
+    {
+      "model": "calibrated_HGB",
+      "policy": "events_1_day",
+      "events": 22,
+      "detected_300": 20,
+      "clean_300": 18,
+      "false_episodes": 3,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 0.5917402917608383,
+      "alarm_occupancy": 0.0015752345729744537
+    },
+    {
+      "model": "calibrated_HGB",
+      "policy": "events_2_day",
+      "events": 22,
+      "detected_300": 20,
+      "clean_300": 18,
+      "false_episodes": 3,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 0.5917402917608383,
+      "alarm_occupancy": 0.0015752345729744537
+    },
+    {
+      "model": "calibrated_HGB",
+      "policy": "events_6_day",
+      "events": 22,
+      "detected_300": 20,
+      "clean_300": 18,
+      "false_episodes": 3,
+      "normal_hours": 121.675,
+      "false_episodes_per_day": 0.5917402917608383,
+      "alarm_occupancy": 0.0015752345729744537
+    }
+  ]
+}

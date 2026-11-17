@@ -1,0 +1,11 @@
+{
+  "model": "raw_RF",
+  "thresholds": {
+    "fixed_05": 0.5,
+    "window_q99": 0.8187619904457929,
+    "events_1_day": 0.87,
+    "events_2_day": 0.87,
+    "events_6_day": 0.87
+  },
+  "training": "all 45 development files; thresholds from existing 13-well OOF predictions"
+}

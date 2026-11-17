@@ -1,0 +1,6 @@
+{
+  "model": "original_calibrated_HGB",
+  "thresholds": {
+    "window_q99": 0.9910052603239604
+  }
+}

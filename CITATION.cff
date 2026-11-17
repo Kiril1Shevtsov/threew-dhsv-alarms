@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the Petrobras 3W dataset when using the data; see DATA_SOURCES.md."
+title: "DHSV Alarms: event-level threshold calibration on the 3W dataset"
+type: software
+authors:
+  - family-names: Shevtsov
+    given-names: Kirill
+  - family-names: Litvinov
+    given-names: Danila
+license: Apache-2.0

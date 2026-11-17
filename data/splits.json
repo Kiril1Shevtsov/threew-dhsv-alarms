@@ -1,0 +1,2459 @@
+[
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00001",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00001",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00001",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00002",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00002",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00002",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00010"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00003",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00004",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00003",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00003",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00005",
+      "WELL-00006"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00004",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00004",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00004",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00005",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00005",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00005",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00006",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00006",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00006",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00007",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00007",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00007",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00008",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00008",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00008",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00009",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00009",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00009",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00010",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00010",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00010",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00011",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00010"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00011",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00011",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00012",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00012",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00012",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00013",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00013",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "raw_RF",
+    "outer_well": "WELL-00013",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00001",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00001",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00001",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00002",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00002",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00002",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00010"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00003",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00004",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00003",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00003",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00005",
+      "WELL-00006"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00004",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00004",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00004",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00005",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00005",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00005",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00006",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00006",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00006",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00007",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00007",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00007",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00008",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00008",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00008",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00009",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00009",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00009",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00010",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00010",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00010",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00011",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00010"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00011",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00011",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00012",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00012",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00012",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00013",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00013",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_RF",
+    "outer_well": "WELL-00013",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00001",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00001",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00001",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00002",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00002",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00002",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00010"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00003",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00004",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00003",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00003",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00005",
+      "WELL-00006"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00004",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00004",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00004",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00005",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00005",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00005",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00006",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00006",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00006",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00007",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00007",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00007",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00008",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00010",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00005",
+      "WELL-00009",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00008",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00008",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00007",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00009",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00009",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00009",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00010",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00010",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00010",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00011",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00011",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00012",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00010"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00011",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00010",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00002",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00011",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00012",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00009",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00012",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00010",
+      "WELL-00011"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00009",
+      "WELL-00013"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00012",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00013"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00013",
+    "inner_fold": 0,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00005",
+      "WELL-00006",
+      "WELL-00007",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00013",
+    "inner_fold": 1,
+    "train_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011"
+    ],
+    "validation_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00012"
+    ]
+  },
+  {
+    "model": "calibrated_HGB",
+    "outer_well": "WELL-00013",
+    "inner_fold": 2,
+    "train_wells": [
+      "WELL-00003",
+      "WELL-00004",
+      "WELL-00006",
+      "WELL-00008",
+      "WELL-00009",
+      "WELL-00010",
+      "WELL-00011",
+      "WELL-00012"
+    ],
+    "validation_wells": [
+      "WELL-00001",
+      "WELL-00002",
+      "WELL-00005",
+      "WELL-00007"
+    ]
+  }
+]

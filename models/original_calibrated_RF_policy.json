@@ -1,0 +1,6 @@
+{
+  "model": "original_calibrated_RF",
+  "thresholds": {
+    "window_q99": 0.7280637467435671
+  }
+}
